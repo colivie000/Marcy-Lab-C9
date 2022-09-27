@@ -1,4 +1,4 @@
-# Marcy-Lab-C9
+# my-first-repo
 
 Hello, my name is Casterly Olivier and I am a software engineer fellow at the Marcy Lab School.
 
